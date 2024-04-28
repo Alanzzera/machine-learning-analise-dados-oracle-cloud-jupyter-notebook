@@ -1,0 +1,12 @@
+.__nb_swap__
+.bash_history
+.cache/
+.runtime-config-logs/
+.ssh/
+.ipynb_checkpoints/
+.ipython/
+/conda
+.conda/
+.viminfo
+.local/
+.gitignore.swo
