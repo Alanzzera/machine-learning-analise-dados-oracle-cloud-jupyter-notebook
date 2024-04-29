@@ -10,3 +10,5 @@
 .viminfo
 .local/
 .gitignore.swo
+.oci/
+.model-ignore
