@@ -1,0 +1,63 @@
+{
+    "_fitted": {
+        "dtype": "<class 'bool'>",
+        "value": true
+    },
+    "cat_impute_values": {
+        "dtype": "<class 'dict'>",
+        "value": {}
+    },
+    "cat_unique_values": {
+        "dtype": "<class 'dict'>",
+        "value": {}
+    },
+    "dtypes": {
+        "dtype": "<class 'pandas.core.series.Series'>",
+        "value": {
+            "index": [
+                "male",
+                "age",
+                "education",
+                "cigsPerDay",
+                "prevalentHyp",
+                "diabetes",
+                "totChol",
+                "sysBP",
+                "diaBP",
+                "BMI",
+                "heartRate",
+                "glucose",
+                "fumante_categorico"
+            ],
+            "values": [
+                "float32",
+                "float32",
+                "float32",
+                "float32",
+                "float32",
+                "float32",
+                "float32",
+                "float32",
+                "float32",
+                "float32",
+                "float32",
+                "float32",
+                "float32"
+            ]
+        }
+    },
+    "label_encoder": {
+        "dtype": "<class 'sklearn.preprocessing._label.LabelEncoder'>",
+        "value": {
+            "classes_": [
+                0,
+                1
+            ],
+            "params": {}
+        }
+    },
+    "task": {
+        "dtype": "<class 'str'>",
+        "value": "classification"
+    }
+}
